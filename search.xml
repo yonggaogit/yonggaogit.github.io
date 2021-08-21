@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2021/08/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>Test Post</title>
-    <url>/2021/08/21/Test-Post/</url>
-    <content><![CDATA[<h1 id="Hello"><a href="#Hello" class="headerlink" title="Hello"></a>Hello</h1><script type="math/tex; mode=display">
-x_1 = \frac{b+\sqrt{b^2-4ac}}{2a}</script>]]></content>
+    <title>路径规划方法总结</title>
+    <url>/2021/08/21/path-planning-note/</url>
+    <content><![CDATA[<h1 id="1-基于搜索的路径规划算法"><a href="#1-基于搜索的路径规划算法" class="headerlink" title="1 基于搜索的路径规划算法"></a>1 基于搜索的路径规划算法</h1><h2 id="1-1-迪杰斯特拉算法"><a href="#1-1-迪杰斯特拉算法" class="headerlink" title="1.1 迪杰斯特拉算法"></a>1.1 迪杰斯特拉算法</h2><h2 id="1-2-A-算法"><a href="#1-2-A-算法" class="headerlink" title="1.2 A*算法"></a>1.2 A*算法</h2><h2 id="1-3-JPS算法"><a href="#1-3-JPS算法" class="headerlink" title="1.3 JPS算法"></a>1.3 JPS算法</h2><h1 id="2-基于采样的路径规划算法"><a href="#2-基于采样的路径规划算法" class="headerlink" title="2 基于采样的路径规划算法"></a>2 基于采样的路径规划算法</h1><h2 id="2-1-PRM算法"><a href="#2-1-PRM算法" class="headerlink" title="2.1 PRM算法"></a>2.1 PRM算法</h2><h2 id="2-2-RRT算法"><a href="#2-2-RRT算法" class="headerlink" title="2.2 RRT算法"></a>2.2 RRT算法</h2><h2 id="2-3-RRT-算法"><a href="#2-3-RRT-算法" class="headerlink" title="2.3 RRT*算法"></a>2.3 RRT*算法</h2><h2 id="2-4-Informed-RRT-算法"><a href="#2-4-Informed-RRT-算法" class="headerlink" title="2.4 Informed RRT*算法"></a>2.4 Informed RRT*算法</h2><h1 id="3-Kinodynamic路径规划算法"><a href="#3-Kinodynamic路径规划算法" class="headerlink" title="3 Kinodynamic路径规划算法"></a>3 Kinodynamic路径规划算法</h1>]]></content>
       <categories>
-        <category>math</category>
+        <category>算法</category>
       </categories>
       <tags>
-        <tag>一元二次方程</tag>
+        <tag>路径规划</tag>
       </tags>
   </entry>
 </search>
